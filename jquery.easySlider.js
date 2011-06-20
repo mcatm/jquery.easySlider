@@ -1,6 +1,13 @@
-/* ----
+/*
+ * jQuery Easy Slider plugin v0.5
+ *
+ * Copyright (C) 2011 HAMADA, Satoshi
+ * 
+ */
 
-ページャー付ける事
+/* Load Map
+
+- ページャー付ける事
 $('.page')等に、aタグをappendしていく
 a.page rel={page}
 
